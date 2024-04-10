@@ -19,7 +19,8 @@ const TAB_DATA: TabData[] = [
             <ul className='list-disc pl-2'>
                 <li>Problem Solving Skills</li>
                 <li>Critical thinking Skills</li>
-                <li>Good Communication Skills</li>
+                <li>Technical Skills</li>
+                <li>Good Communication</li>
                 <li>Growth Mindset</li>
                 <li>Detail-Oriented</li>
                 <li>Time Management</li>

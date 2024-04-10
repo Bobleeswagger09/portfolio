@@ -51,7 +51,7 @@ const Hero = () => {
                 Projects
               </ScrollLink>
               <Link
-                href="/CvFile/myCv.pdf"
+                href="/cv.pdf"
                 download
                 target="_blank"
                 rel="noreferrer noopener"
