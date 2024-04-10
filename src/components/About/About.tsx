@@ -22,6 +22,7 @@ const TAB_DATA: TabData[] = [
                 <li>Good Communication Skills</li>
                 <li>Growth Mindset</li>
                 <li>Detail-Oriented</li>
+                <li>Time Management</li>
             </ul>
         )
     },
@@ -67,7 +68,7 @@ const About = () => {
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
                 <p className='text-base lg:text-md'>
                     Hi there!
-                    my name is Victor Edidiong Samuel, I am a Full-stack web developer with over two years of experience in area of computer programming . 
+                    my name is Victor Edidiong Samuel, I am a Full-stack web developer with over three years of experience in area of computer programming . 
                     I build websites that run on the web on the web and I am passionate about utilizing new technologies to make better user experience. 
                     I thrive in collaborative environments and love working on project that challenge me to learn new technologies and techniques. I am highly
                      motivated to provide legendary service to customers and teammate, as well as encouraging thought of new possibilities.
