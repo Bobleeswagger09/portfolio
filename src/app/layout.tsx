@@ -9,14 +9,8 @@ export const metadata: Metadata = {
   description: "Check out my projects",
   icons: [
     {
-      media: "(prefers-color-scheme: light)",
       url: "/favicon.ico",
       href: "/favicon.ico",
-    },
-    {
-      media: "(prefers-color-scheme: dark)",
-      url: "/favicon.png",
-      href: "/favicon.png",
     },
   ],
 };

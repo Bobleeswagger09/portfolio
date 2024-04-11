@@ -4,7 +4,7 @@ import { FaRegUser, FaTools, FaAward } from "react-icons/fa";
 import { IoHomeOutline } from "react-icons/io5";
 import { IoIosCall, IoMdBriefcase } from "react-icons/io";
 import { Link as ScrollLink } from "react-scroll";
-import { BsGithub, BsInstagram, BsLinkedin, BsTwitter } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsTwitter } from "react-icons/bs";
 import Link from "next/link";
 
 const Footer = () => {
@@ -42,7 +42,7 @@ const Footer = () => {
       icon: BsTwitter,
     },
     {
-      href: "https://www.linkedin.com/in/victor-samuel-42a092220/",
+      href: "https://www.linkedin.com/in/victor-samuel-42a092220",
       icon: BsLinkedin,
     },
     {
