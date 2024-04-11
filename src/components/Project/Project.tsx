@@ -21,7 +21,7 @@ const Projects = () => {
       image: "/img/image6.webp",
       title: "A Streaming Website",
       desc: "Cinemate Represents a Simple Version of Netflix",
-      liveUrl: "cinemateapp.vercel.app",
+      liveUrl: "https://cinemateapp.vercel.app",
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
     {
