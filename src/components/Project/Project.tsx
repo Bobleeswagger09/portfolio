@@ -18,9 +18,16 @@ const Projects = () => {
       repo: "https://github.com/Bobleeswagger09/victorblog/",
     },
     {
+      image: "/img/image6.webp",
+      title: "Smart Home Website",
+      desc: "A simple design for a phone website",
+      liveUrl: "https://cinemate-black.vercel.app/home",
+      repo: "https://github.com/Bobleeswagger09/cinemate",
+    },
+    {
       image: "/img/image2.webp",
-      title: "Coffee Website",
-      desc: "A Coffee website built with HTML CSS and JAVASCRIPT",
+      title: "Bright Cleaning Services",
+      desc: "A Cleaning Services Website built with HTML CSS and JAVASCRIPT",
       liveUrl: "https://bright-cleaning-services.vercel.app/",
       repo: "https://github.com/Bobleeswagger09/Bright-Cleaning-Services",
     },
@@ -33,11 +40,18 @@ const Projects = () => {
     },
     {
       image: "/img/image4.webp",
-      title: "A FOOD ORDERING WEBSITE",
-      desc: "A food Ordering website",
+      title: "A Food Odering Website",
+      desc: "A food Ordering website built with React js",
       liveUrl: "https://delicious-eight.vercel.app/",
       repo: "https://github.com/gift56/Netflix_Clone/",
-    }
+    },
+    {
+      image: "/img/image5.webp",
+      title: "Smart Home Website",
+      desc: "A simple design for a phone website",
+      liveUrl: "https://smart-home-sooty.vercel.app/",
+      repo: "https://github.com/Bobleeswagger09/Smart__Home",
+    },
   ];
 
   const [screen, setScreen] = useState<number | any>(null);
