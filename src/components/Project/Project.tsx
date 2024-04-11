@@ -19,8 +19,8 @@ const Projects = () => {
     },
     {
       image: "/img/image6.webp",
-      title: "Smart Home Website",
-      desc: "A simple design for a phone website",
+      title: "CINEMATE",
+      desc: "Cinemate Represents a Simple Version of Netflix",
       liveUrl: "https://cinemate-black.vercel.app/home",
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
