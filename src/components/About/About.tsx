@@ -69,10 +69,10 @@ const About = () => {
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
                 <p className='text-base lg:text-md'>
                     Hi there!
-                    my name is Victor Samuel, I am a Full-stack Web Developer with over three years of experience in the area of computer programming . 
+                    my name is Victor Samuel, I am a Fullstack Software Developer with over three years of experience in the area of computer programming . 
                     I build websites that run on the web on the web and I am passionate about utilizing new technologies to make better user experience. 
                     I thrive in collaborative environments and love working on project that challenge me to learn new technologies and techniques. I am highly
-                     motivated to provide legendary service to customers and teammate, as well as encouraging thought of new possibilities.
+                     motivated to provide legendary service to customers and teammate, as well as encourage thought of new possibilities.
                 </p>
                 <p className='pt-5'>
                     My specialties include Python, Javascript, React and Next js and am always looking for opportunities to apply this skills to create intuitive and user-friendly web applications. 
