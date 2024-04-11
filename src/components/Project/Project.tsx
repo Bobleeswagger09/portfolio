@@ -13,14 +13,14 @@ const Projects = () => {
     {
       image: "/img/image1.webp",
       title: "Developer Blog",
-      desc: "This blog highlights my software developer journey",
+      desc: "A blog Application built with Next js, Prisma, Mongodb and Firebase",
       liveUrl: "https://victor-devblog-six.vercel.app/",
       repo: "https://github.com/Bobleeswagger09/victorblog/",
     },
     {
       image: "/img/image6.webp",
       title: "A Streaming Website",
-      desc: "Cinemate Represents a Simple Version of Netflix",
+      desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
       liveUrl: "https://cinemateapp.vercel.app",
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
@@ -41,7 +41,7 @@ const Projects = () => {
     {
       image: "/img/image4.webp",
       title: "A Food Odering Website",
-      desc: "A food Ordering website built with React js",
+      desc: "A food Ordering website built with HTML, CSS and JAVASCRIPT",
       liveUrl: "https://delicious-eight.vercel.app/",
       repo: "https://github.com/gift56/Netflix_Clone/",
     },
