@@ -116,7 +116,7 @@ const Contact = () => {
             <p
               className="text-sm md:text-base font-normal"
             >
-            I am very welcoming  open to new opportunities and partnerships, 
+            I am very welcoming,  open to new opportunities and partnerships, 
             you can connect with me through a call, email, or social media. 
             Feel free to complete the enquiry form as well. I look forward to hearing from you!
             </p>
