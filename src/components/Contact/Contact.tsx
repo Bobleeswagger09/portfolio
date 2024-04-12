@@ -26,7 +26,7 @@ const Contact = () => {
       icon: BsInstagram,
     },
     {
-      href: "https://www.linkedin.com/in/samuel-victor-42a092220/",
+      href: "https://www.linkedin.com/in/victor-samuel-42a092220",
       icon: BsLinkedin,
     },
   ];
