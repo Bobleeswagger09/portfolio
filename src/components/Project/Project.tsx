@@ -32,6 +32,13 @@ const Projects = () => {
       repo: "https://github.com/Bobleeswagger09/Dictionary-App",
     },
     {
+      image: "/img/image8.webp",
+      title: "Country App",
+      desc: "Built with React js",
+      liveUrl: "https://countries-app-rho-sage.vercel.app",
+      repo: "https://github.com/Bobleeswagger09/Countries-App",
+    },
+    {
       image: "/img/image2.webp",
       title: "Bright Cleaning Services",
       desc: "A Cleaning Services Website built with HTML CSS and JAVASCRIPT",
