@@ -70,7 +70,7 @@ const About = () => {
                 <p className='text-base lg:text-md'>
                     Hi there!
                     my name is Victor Samuel, I am a Fullstack Software Developer with over three years of experience in the area of computer programming . 
-                    I build websites that run on the web on the web and I am passionate about utilizing new technologies to make better user experience. 
+                    I build websites that run on the web and I am passionate about utilizing new technologies to make better user experience. 
                     I thrive in collaborative environments and love working on project that challenge me to learn new technologies and techniques. I am highly
                      motivated to provide legendary service to customers and teammate, as well as encourage thought of new possibilities.
                 </p>
