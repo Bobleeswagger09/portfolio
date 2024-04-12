@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { BsTwitter, BsInstagram, BsLinkedin, BsSend } from "react-icons/bs";
+import { BsTwitter, BsLinkedin, BsSend } from "react-icons/bs";
 import { useFormik } from "formik";
 import { toast } from "react-toastify";
 import { useForm } from "@formspree/react";
@@ -20,10 +20,6 @@ const Contact = () => {
     {
       href: "https://twitter.com/EdidiongSammy09",
       icon: BsTwitter,
-    },
-    {
-      href: "https://www.instagram.com/victorsamuelalex/",
-      icon: BsInstagram,
     },
     {
       href: "https://www.linkedin.com/in/victor-samuel-42a092220",
