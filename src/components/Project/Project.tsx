@@ -25,6 +25,13 @@ const Projects = () => {
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
     {
+      image: "/img/image7.webp",
+      title: "A Dictionary App",
+      desc: "A Dictionary App built with React js",
+      liveUrl: "https://dictionary-app-dun.vercel.app",
+      repo: "https://github.com/Bobleeswagger09/Dictionary-App",
+    },
+    {
       image: "/img/image2.webp",
       title: "Bright Cleaning Services",
       desc: "A Cleaning Services Website built with HTML CSS and JAVASCRIPT",
