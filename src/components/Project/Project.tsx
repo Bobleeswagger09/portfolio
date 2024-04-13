@@ -53,13 +53,6 @@ const Projects = () => {
       repo: "https://github.com/Bobleeswagger09/Simple-Cofee/",
     },
     {
-      image: "/img/image4.webp",
-      title: "A Food Odering Website",
-      desc: "A food Ordering website built with HTML, CSS and JAVASCRIPT",
-      liveUrl: "https://delicious-eight.vercel.app/",
-      repo: "https://github.com/gift56/Netflix_Clone/",
-    },
-    {
       image: "/img/image5.webp",
       title: "Smart Home Website",
       desc: "A simple design for a phone website",
