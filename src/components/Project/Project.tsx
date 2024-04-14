@@ -21,7 +21,7 @@ const Projects = () => {
       image: "/img/image6.webp",
       title: "A Streaming Website",
       desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
-      liveUrl: "https://climate-watch.vercel.app",
+      liveUrl: "https://cinemate-git-master-bobleeswagger09s-projects.vercel.app",
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
     {
