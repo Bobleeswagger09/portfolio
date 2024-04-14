@@ -76,7 +76,7 @@ const About = () => {
                 </p>
                 <p className='pt-5'>
                     My specialties include Python, Javascript, React and Next js and am always looking for opportunities to apply this skills to create intuitive and user-friendly web applications. 
-                    I enjoy &apos;s working on both frontend and  backend part of a web application.
+                    I enjoy working on both frontend and  backend part of a web application.
                 </p>
                 <p className='pt-5'>   
                     If you are looking for a versatile and motivated full stack developer for your team, 

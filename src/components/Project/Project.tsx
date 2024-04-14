@@ -13,7 +13,7 @@ const Projects = () => {
     {
       image: "/img/image1.webp",
       title: "Developer Blog",
-      desc: "A blog Application built with Next js, Prisma, Mongodb and Firebase",
+      desc: "A Blog Application built with Next js, Prisma, Mongodb and Firebase",
       liveUrl: "https://victor-devblog-six.vercel.app/",
       repo: "https://github.com/Bobleeswagger09/victorblog/",
     },
@@ -54,7 +54,7 @@ const Projects = () => {
     },
     {
       image: "/img/image4.webp",
-      title: "A Food Odering Website",
+      title: "A Food Ordering Website",
       desc: "A food Ordering website built with HTML, CSS and JAVASCRIPT",
       liveUrl: "https://delicious-omega.vercel.app",
       repo: "https://github.com/Bobleeswagger09/DELICIOUS",
