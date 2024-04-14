@@ -75,7 +75,7 @@ const About = () => {
                      motivated to provide legendary service to customers and teammate, as well as encourage thought of new possibilities.
                 </p>
                 <p className='pt-5'>
-                    My specialties include Python, Javascript, React and Next js and am always looking for opportunities to apply this skills to create intuitive and user-friendly web applications. 
+                    My specialties include Python, Javascript, React and Next js and I&apos;m  always looking for opportunities to apply this skills to create intuitive and user-friendly web applications. 
                     I enjoy working on both frontend and  backend part of a web application.
                 </p>
                 <p className='pt-5'>   
