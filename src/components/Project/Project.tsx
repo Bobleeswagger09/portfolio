@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -11,17 +11,11 @@ import Link from "next/link";
 const Projects = () => {
   const data = [
     {
-      image: "/img/image1.webp",
-      title: "Developer Blog",
-      desc: "A Blog Application built with Next js, Prisma, Mongodb and Firebase",
-      liveUrl: "https://victor-devblog-six.vercel.app/",
-      repo: "https://github.com/Bobleeswagger09/victorblog/",
-    },
-    {
       image: "/img/image6.webp",
       title: "A Streaming Website",
       desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
-      liveUrl: "https://cinemate-git-master-bobleeswagger09s-projects.vercel.app",
+      liveUrl:
+        "https://cinemate-git-master-bobleeswagger09s-projects.vercel.app",
       repo: "https://github.com/Bobleeswagger09/cinemate",
     },
     {
@@ -89,14 +83,10 @@ const Projects = () => {
     <section id="projects" className="py-10 w-full">
       <div className="container">
         <div className="flex flex-col items-start justify-start w-full gap-3">
-          <h2
-            className="text-2xl md:text-3xl font-semibold text-blue-500"
-          >
+          <h2 className="text-2xl md:text-3xl font-semibold text-blue-500">
             Featured projects
           </h2>
-          <p
-            className="text-sm md:text-base font-medium"
-          >
+          <p className="text-sm md:text-base font-medium">
             Check out Some of my projects
           </p>
           <div className="w-full mt-5">
