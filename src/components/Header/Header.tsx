@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { useState, useRef, useEffect } from "react";
-import { MdClose } from "react-icons/md";git 
+import { MdClose } from "react-icons/md";
 import { Link as ScrollLink } from "react-scroll";
 import Logo from "../../../public/img/logo.png";
 
