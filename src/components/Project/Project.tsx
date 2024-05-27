@@ -20,7 +20,7 @@ const Projects = () => {
     {
       image: "/img/image7.webp",
       title: "VictorMart",
-      desc: "An E-Commerce  Application  built with Next.js 13, TailwindCss Typescript, Prisma and DaisyUi",
+      desc: "An E-Commerce  Application  built with Next.js 13, TailwindCSS Typescript, Prisma and DaisyUi",
       liveUrl: "https://victor-mart.vercel.app",
       repo: "https://github.com/Bobleeswagger09/VictorMart",
     },
