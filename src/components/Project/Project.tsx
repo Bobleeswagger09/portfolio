@@ -11,19 +11,25 @@ import Link from "next/link";
 const Projects = () => {
   const data = [
     {
-      image: "/img/image6.webp",
-      title: "A Streaming Website",
-      desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
-      liveUrl:
-        "https://cinemate-git-master-bobleeswagger09s-projects.vercel.app",
-      repo: "https://github.com/Bobleeswagger09/cinemate",
+      image: "/img/image5.webp",
+      title: "Learn new skills at japatalent.com",
+      desc: "Eliminating the barriers between Talent and Potential",
+      liveUrl: "https://www.japatalent.com",
+      repo: "https://github.com/thejapatalentdev/japa-web",
     },
     {
       image: "/img/image7.webp",
-      title: "A Dictionary App",
-      desc: "A Dictionary App built with React js",
-      liveUrl: "https://dictionary-app-dun.vercel.app",
-      repo: "https://github.com/Bobleeswagger09/Dictionary-App",
+      title: "An E-Commerce Application",
+      desc: "An E-Commerce  Application  built with Next.js 13, TailwindCss Typescript, Prisma and DaisyUi",
+      liveUrl: "https://victor-mart.vercel.app",
+      repo: "https://github.com/Bobleeswagger09/VictorMart",
+    },
+    {
+      image: "/img/image6.webp",
+      title: "A Streaming Website",
+      desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
+      liveUrl: "https://climate-watch.vercel.app",
+      repo: "https://github.com/Bobleeswagger09/cinemate",
     },
     {
       image: "/img/image8.webp",
@@ -52,13 +58,6 @@ const Projects = () => {
       desc: "A food Ordering website built with HTML, CSS and JAVASCRIPT",
       liveUrl: "https://delicious-omega.vercel.app",
       repo: "https://github.com/Bobleeswagger09/DELICIOUS",
-    },
-    {
-      image: "/img/image5.webp",
-      title: "Smart Home Website",
-      desc: "A simple design for a phone website",
-      liveUrl: "https://smart-home-sooty.vercel.app/",
-      repo: "https://github.com/Bobleeswagger09/Smart__Home",
     },
   ];
 
