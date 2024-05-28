@@ -20,7 +20,7 @@ const Projects = () => {
     {
       image: "/img/image7.webp",
       title: "VictorMart",
-      desc: "An E-Commerce  Application  built with Next.js 13, TailwindCSS, DaisyUi Typescript, Prisma and  MongoDB",
+      desc: "An E-Commerce  Application  built with Next.js 13.4, TailwindCSS, DaisyUi Typescript, Prisma and  MongoDB",
       liveUrl: "https://victor-mart.vercel.app",
       repo: "https://github.com/Bobleeswagger09/VictorMart",
     },
@@ -30,6 +30,13 @@ const Projects = () => {
       desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
       liveUrl: "https://climate-watch.vercel.app",
       repo: "https://github.com/Bobleeswagger09/cinemate",
+    },
+    {
+      image: "/img/image9.webp",
+      title: "Anime Archive",
+      desc: "A Responsive Anime Website that Shows an infinite list of various anime's with Framer Motion and using Next js Server Features",
+      liveUrl: "https://anime-website-opal.vercel.app",
+      repo: "https://github.com/Bobleeswagger09/Anime-Website",
     },
     {
       image: "/img/image8.webp",
