@@ -11,20 +11,6 @@ import Link from "next/link";
 const Projects = () => {
   const data = [
     {
-      image: "/img/image5.webp",
-      title: "Learn new skills at japatalent.com",
-      desc: "Eliminating the barriers between Talent and Potential",
-      liveUrl: "https://www.japatalent.com",
-      repo: "https://github.com/thejapatalentdev/japa-web",
-    },
-    {
-      image: "/img/image7.webp",
-      title: "VictorMart",
-      desc: "An E-Commerce  Application  built with Next.js 13.4, TailwindCSS, DaisyUi Typescript, Prisma and  MongoDB",
-      liveUrl: "https://victor-mart.vercel.app",
-      repo: "https://github.com/Bobleeswagger09/VictorMart",
-    },
-    {
       image: "/img/image6.webp",
       title: "A Streaming Website",
       desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
