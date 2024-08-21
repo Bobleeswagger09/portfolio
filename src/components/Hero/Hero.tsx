@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import Link from "next/link";
 import { Link as ScrollLink } from "react-scroll";
@@ -10,9 +10,7 @@ const Hero = () => {
       <div className="container h-full">
         <div className="w-full flex flex-col xl:flex-row lg:flex-row md:flex-row items-center justify-center tab:flex-row gap-10 h-full">
           <div className="tab:flex-1 w-full flex flex-col items-start justify-start gap-5">
-            <h1
-              className="text-xl lg:text-2xl font-semibold md:text-2xl"
-            >
+            <h1 className="text-xl lg:text-2xl font-semibold md:text-2xl">
               Hello, my name is{" "}
               <i className="font-styleFont text-secondary">Victor</i>
             </h1>
@@ -26,22 +24,20 @@ const Hero = () => {
                 1000,
                 "I Create",
                 1000,
-
-            
               ]}
               speed={50}
               className="text-3xl lg:text-5xl  font-bold md:text-4xl"
               repeat={Infinity}
             />
-            <span
-              className="text-base sm:text-lg md:text-xl font-medium"
-            >
-              Experienced full stack developer with proficiency in 
-              <span className="text-secondary"> React js, Next.js, Node.js, Express.js, MongoDB, SQL and Tyepescript</span>.🧑‍💻
+            <span className="text-base sm:text-lg md:text-xl font-medium">
+              Experienced full stack developer with proficiency in
+              <span className="text-secondary">
+                {" "}
+                React js, Next.js, Node.js, Express.js, MongoDB and Tyepescript
+              </span>
+              .🧑‍💻
             </span>
-            <div
-              className="flex items-center justify-start gap-5"
-            >
+            <div className="flex items-center justify-start gap-5">
               <ScrollLink
                 to="projects"
                 spy={true}
