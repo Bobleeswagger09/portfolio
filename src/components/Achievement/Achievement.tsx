@@ -5,7 +5,7 @@ import Number from "../Number/Number";
 const achievementsList = [
   {
     metric: "Projects",
-    value: 20,
+    value: 15,
     postfix: "+",
   },
 
@@ -15,7 +15,7 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    value: 3,
+    value: 2,
     metric: "Years Experience",
     postfix: "+",
   },

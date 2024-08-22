@@ -17,10 +17,10 @@ const TAB_DATA: TabData[] = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Problem Solving Skills</li>
-        <li>Critical thinking Skills</li>
-        <li>Technical Skills</li>
         <li>Good Communication</li>
+
+        <li>Problem Solving Skills</li>
+        <li>Technical Skills</li>
         <li>Growth Mindset</li>
         <li>Detail-Oriented</li>
         <li>Time Management</li>
@@ -69,8 +69,8 @@ const About = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-md">
             Hi there! my name is Victor Samuel, I am a Fullstack Software
-            Developer with over three years of experience in the area of
-            computer programming . I build websites that run on the web and I am
+            Developer with over two years of experience in the area of computer
+            programming . I build websites that run on the web and I am
             passionate about utilizing new technologies to make better user
             experience. I thrive in collaborative environments and love working
             on project that challenge me to learn new technologies and
