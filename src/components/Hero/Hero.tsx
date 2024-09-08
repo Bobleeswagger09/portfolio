@@ -62,7 +62,7 @@ const Hero = () => {
           <div className="tab:flex-1 w-full relative flex items-center justify-center h-full md:overflow-hidden">
             <div className="home-img bg-secondary sm:h-[300px] h-[250px] lg:h-[350px] xl-[450px] rounded-full flex items-center justify-center overflow-hidden">
               <img
-                src="/img/victor.webp"
+                src="/img/Bob.webp"
                 alt="hero_image"
                 className="w-[250px] h-[250px] sm:w-[300px] sm:h-[300px] md:h-[300px] md:w-[300px] lg:w-[350px]  lg:h-[350px] xl-[450px] rounded-xl relative z-10 object-contain "
               />
