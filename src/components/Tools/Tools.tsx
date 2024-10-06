@@ -1,4 +1,7 @@
 import React from "react";
+import Image from "next/image";
+
+// Importing icons
 import htmlIcon from "../../../public/img/svgs/icons8-html-5.svg";
 import cssIcon from "../../../public/img/svgs/icons8-css3.svg";
 import tailwindcsIcon from "../../../public/img/svgs/icons8-tailwind-css.svg";
@@ -10,42 +13,34 @@ import gitIcon from "../../../public/img/svgs/icons8-git.svg";
 import express from "../../../public/img/svgs/express.svg";
 import mongodb from "../../../public/img/svgs/mongodb.svg";
 import nextjs from "../../../public/img/svgs/nextjs.svg";
-import Image from "next/image";
 
 const Tools = () => {
-  const links = [
-    nextjs,
-    reactIcon,
-    javascriptIcon,
-    typescriptIcon,
-    nodeIcon,
-    express,
-    mongodb,
-    htmlIcon,
-    cssIcon,
-    tailwindcsIcon,
-    gitIcon,
+  // List of tool icons with unique ids
+  const toolIcons = [
+    { id: "nextjs", src: nextjs, alt: "Next.js" },
+    { id: "react", src: reactIcon, alt: "React" },
+    { id: "javascript", src: javascriptIcon, alt: "JavaScript" },
+    { id: "typescript", src: typescriptIcon, alt: "TypeScript" },
+    { id: "nodejs", src: nodeIcon, alt: "Node.js" },
+    { id: "express", src: express, alt: "Express" },
+    { id: "mongodb", src: mongodb, alt: "MongoDB" },
+    { id: "html", src: htmlIcon, alt: "HTML5" },
+    { id: "css", src: cssIcon, alt: "CSS3" },
+    { id: "tailwind", src: tailwindcsIcon, alt: "Tailwind CSS" },
+    { id: "git", src: gitIcon, alt: "Git" },
   ];
 
   return (
-    <div
-      id="tools"
-      className="mt-[90px] mx-4 my-0 flex flex-col gap-4 items-center"
-    >
+    <div id="tools" className="mt-20 mx-4 flex flex-col items-center gap-4">
       <p className="text-3xl border-b-2 mb-4">Tech Stack</p>
       <ul className="flex justify-center items-center gap-8 flex-wrap">
-        {links.map((link) => (
+        {toolIcons.map(({ id, src, alt }) => (
           <li
-            key={link.id}
-            className="cursor-pointer bg-[#ffff] shadow-lg w-20 h-20 rounded-full relative  flex items-center justify-center"
+            key={id} // This ensures the key is unique
+            id={id}
+            className="cursor-pointer bg-white shadow-lg w-20 h-20 rounded-full flex items-center justify-center"
           >
-            <Image
-              src={link}
-              height={100}
-              width={100}
-              alt="tools"
-              className="w-[60px] h-[150px]"
-            />
+            <Image src={src} alt={alt} width={60} height={60} />
           </li>
         ))}
       </ul>
