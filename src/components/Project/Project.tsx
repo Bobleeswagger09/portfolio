@@ -11,13 +11,6 @@ import Link from "next/link";
 const Projects = () => {
   const data = [
     {
-      image: "/img/image10.webp",
-      title: "An Ecommerce Website",
-      desc: "Next.js 13 E-Commerce Website (App Router, TypeScript, Deployment, TailwindCSS, Prisma, MongoDB, DaisyUI",
-      liveUrl: "https://victor-mart.vercel.app/",
-      repo: "https://github.com/Bobleeswagger09/cinemate",
-    },
-    {
       image: "/img/image6.webp",
       title: "A Streaming Website",
       desc: "A movie streaming website built with React js, Tailwind CSS and Framer motion",
