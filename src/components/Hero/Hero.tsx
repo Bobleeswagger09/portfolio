@@ -24,6 +24,8 @@ const Hero = () => {
                 1000,
                 "I learn",
                 1000,
+                "I Think",
+                1000,
                 "I Create",
                 1000,
               ]}

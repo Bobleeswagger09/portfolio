@@ -68,13 +68,13 @@ const About = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-md">
-            Hi there! my name is Victor Samuel, a dedicated Software Developer
-            with three years of intensive learning and hands-on experience in
+            Hello, my name is Victor Samuel, a dedicated Software Developer with
+            over two years of intensive learning and hands-on experience in
             building robust and scalable web applications. I thrive in
-            collaborative environments and I’m eager to take on challenging
-            projects that push me to expand my skills. Committed to delivering
-            exceptional service and fostering innovation through creative
-            problem-solving and continuous learning.
+            collaborative environments and I&apos;m eager to take on challenging
+            projects that push me to expand my skills. I am committed to
+            delivering exceptional service and fostering innovation through
+            creative problem-solving and continuous learning.
           </p>
           <p className="pt-5">
             My specialties include Javascript, React and Next js and I&apos;m
