@@ -11,7 +11,7 @@ const achievementsList = [
 
   {
     metric: "Collaborations",
-    value: 7,
+    value: 5,
     postfix: "+",
   },
   {

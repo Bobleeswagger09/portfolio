@@ -18,7 +18,6 @@ const TAB_DATA: TabData[] = [
     content: (
       <ul className="list-disc pl-2">
         <li>Good Communication</li>
-
         <li>Problem Solving Skills</li>
         <li>Technical Skills</li>
         <li>Growth Mindset</li>
@@ -32,7 +31,6 @@ const TAB_DATA: TabData[] = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Engineering Student @ALX Africa</li>
         <li>
           100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Dr.
           Angela Yu.
@@ -79,13 +77,12 @@ const About = () => {
           <p className="pt-5">
             My specialties include Javascript, React and Next js and I&apos;m
             always looking for opportunities to apply this skills to create
-            intuitive and user-friendly web applications. I enjoy working on
-            both frontend and backend part of a web application.
+            intuitive and user-friendly web applications.
           </p>
           <p className="pt-5">
-            If you are looking for a versatile and motivated full stack
-            developer for your team, feel free to connect with me. I am always
-            open to new opportunities and partnerships.
+            If you are looking for a versatile and motivated software developer
+            for your team, feel free to connect with me. I am always open to new
+            opportunities and partnerships.
           </p>
 
           <div className="flex justify-start flex-row mt-8">

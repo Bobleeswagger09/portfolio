@@ -15,29 +15,16 @@ const Hero = () => {
               <i className="font-styleFont text-secondary">Victor</i>
             </h1>
             <TypeAnimation
-              sequence={[
-                "Software Engineer",
-                1000,
-                "Frontend developer",
-                1000,
-                "Junior Backend developer",
-                1000,
-                "I learn",
-                1000,
-                "I Think",
-                1000,
-                "I Create",
-                1000,
-              ]}
+              sequence={["Software Engineer", 1000, "Frontend developer", 1000]}
               speed={50}
               className="text-3xl lg:text-5xl  font-bold md:text-4xl"
               repeat={Infinity}
             />
             <span className="text-base sm:text-lg md:text-xl font-medium">
-              Experienced full stack developer with proficiency in
+              Experienced Frontend developer with proficiency in
               <span className="text-secondary">
                 {" "}
-                React js, Next.js, Node.js, Express.js, MongoDB and Tyepescript
+                React js, Next.js, and Typescript
               </span>
               .🧑‍💻
             </span>

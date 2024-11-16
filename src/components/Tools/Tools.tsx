@@ -8,10 +8,7 @@ import tailwindcsIcon from "../../../public/img/svgs/icons8-tailwind-css.svg";
 import javascriptIcon from "../../../public/img/svgs/icons8-javascript.svg";
 import reactIcon from "../../../public/img/svgs/icons8-react.svg";
 import typescriptIcon from "../../../public/img/svgs/icons8-typescript.svg";
-import nodeIcon from "../../../public/img/svgs/icons8-node-js.svg";
 import gitIcon from "../../../public/img/svgs/icons8-git.svg";
-import express from "../../../public/img/svgs/express.svg";
-import mongodb from "../../../public/img/svgs/mongodb.svg";
 import nextjs from "../../../public/img/svgs/nextjs.svg";
 
 const Tools = () => {
@@ -21,9 +18,6 @@ const Tools = () => {
     { id: "react", src: reactIcon, alt: "React" },
     { id: "javascript", src: javascriptIcon, alt: "JavaScript" },
     { id: "typescript", src: typescriptIcon, alt: "TypeScript" },
-    { id: "nodejs", src: nodeIcon, alt: "Node.js" },
-    { id: "express", src: express, alt: "Express" },
-    { id: "mongodb", src: mongodb, alt: "MongoDB" },
     { id: "html", src: htmlIcon, alt: "HTML5" },
     { id: "css", src: cssIcon, alt: "CSS3" },
     { id: "tailwind", src: tailwindcsIcon, alt: "Tailwind CSS" },
